@@ -1,8 +1,8 @@
 # Linux/Unix系统编程
 
 * [定时器](README.md)
-	* [UNIX 传统定时器](timerd/Unix传统定时器.md)
-	* [POSIX时钟和定时器](POSIX时钟.md)
+	* [UNIX 传统定时器](timer/Unix传统定时器.md)
+	* [POSIX时钟和定时器](timer/POSIX时钟.md)
 	* [Linux timerfd](Linux特有定时器.md)
 
 * [线程](README.md)
@@ -16,4 +16,3 @@
  * [附录](README.md)
 	* [结构体](README.md)
 		* [struct timespec](structs/timespec.md)
-
