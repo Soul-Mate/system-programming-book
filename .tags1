@@ -1,0 +1,37 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+获取时钟的值	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^## 获取时钟的值$/;"	function	line:6
+define _POSIX_C_SOURCE 199309	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^#define _POSIX_C_SOURCE 199309$/;"	function	line:8
+include <time.h>	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^#include <time.h>$/;"	function	line:9
+define _POSIX_C_SOURCE 199309	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^#define _POSIX_C_SOURCE 199309$/;"	function	line:37
+include "main.h"	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^#include "main.h"$/;"	function	line:39
+include <time.h>	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^#include <time.h>$/;"	function	line:40
+设置时钟值	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^## 设置时钟值$/;"	function	line:63
+define _POSIX_C_SOURCE 199309	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^#define _POSIX_C_SOURCE 199309$/;"	function	line:66
+include <time.h>	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^#include <time.h>$/;"	function	line:67
+获取特定进程的时钟id	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^## 获取特定进程的时钟id$/;"	function	line:73
+define _XOPEN_SOURCE 600	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^#define _XOPEN_SOURCE 600$/;"	function	line:75
+include <time.h>	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^#include <time.h>$/;"	function	line:76
+获取特定线程运行时间	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^## 获取特定线程运行时间$/;"	function	line:88
+define _XOPEN_SOURCE 600	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^#define _XOPEN_SOURCE 600$/;"	function	line:90
+include <pthread.h>	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^#include <pthread.h>$/;"	function	line:91
+include <time.h>	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^#include <time.h>$/;"	function	line:92
+休眠	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^## 休眠$/;"	function	line:95
+define _XOPEN_SOURCE 600	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^#define _XOPEN_SOURCE 600$/;"	function	line:97
+include <time.h>	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^#include <time.h>$/;"	function	line:98
+间隔定时器	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^## 间隔定时器$/;"	function	line:105
+创建定时器	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^### 创建定时器$/;"	function	line:107
+define _POSIX_C_SOURCE 199309	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^#define _POSIX_C_SOURCE 199309$/;"	function	line:110
+include <signal.h>	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^#include <signal.h>$/;"	function	line:111
+include <time.h>	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^#include <time.h>$/;"	function	line:112
+设置和移除定时器	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^### 设置和移除定时器$/;"	function	line:123
+define _POSIX_C_SOURCE 199309	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^#define _POSIX_C_SOURCE 199309$/;"	function	line:125
+获取定时器	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^### 获取定时器$/;"	function	line:147
+define _POSIX_C_SOURCE 199309	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^#define _POSIX_C_SOURCE 199309$/;"	function	line:149
+删除定时器	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^### 删除定时器$/;"	function	line:156
+define _POSIX_C_SOURCE 199309	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^#define _POSIX_C_SOURCE 199309$/;"	function	line:158
+include <time.h>	C:\Users\xyc\Desktop\system-programming-book\timer\POSIXʱ��.md	/^#include <time.h>$/;"	function	line:159
