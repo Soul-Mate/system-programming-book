@@ -1,3 +1,2 @@
-*.resource
 _book
-yulib.config
+yulib.*
